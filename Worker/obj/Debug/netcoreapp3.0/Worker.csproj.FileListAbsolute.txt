@@ -1,0 +1,14 @@
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.exe
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.deps.json
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.json
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.runtimeconfig.dev.json
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.dll
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\Worker.pdb
+C:\Projects\Paulo\Worker\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.csprojAssemblyReference.cache
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.csproj.CoreCompileInputs.cache
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfoInputs.cache
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.AssemblyInfo.cs
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.csproj.CopyComplete
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.dll
+C:\Projects\Paulo\Worker\obj\Debug\netcoreapp3.0\Worker.pdb

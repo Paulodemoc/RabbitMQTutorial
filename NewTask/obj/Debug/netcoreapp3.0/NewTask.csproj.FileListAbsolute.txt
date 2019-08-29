@@ -1,0 +1,14 @@
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.exe
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.deps.json
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.runtimeconfig.json
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.runtimeconfig.dev.json
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.dll
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\NewTask.pdb
+C:\Projects\Paulo\NewTask\bin\Debug\netcoreapp3.0\RabbitMQ.Client.dll
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.csprojAssemblyReference.cache
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.AssemblyInfoInputs.cache
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.AssemblyInfo.cs
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.csproj.CopyComplete
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.dll
+C:\Projects\Paulo\NewTask\obj\Debug\netcoreapp3.0\NewTask.pdb
